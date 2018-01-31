@@ -8,7 +8,7 @@ This repo contains projects from the following classes:
 2. Healthcare Anaytics <br />
       a. predicted diabetes in patients using EHR data (R) <br />
 3. Big Data & Text Analysis <br />
-      a. performed sentiment analysis on Tweets (Hive & SPSS) <br />
+      a. performed sentiment analysis on Tweets (Spark & SPSS) <br />
 4. Data Mining <br />
       a. predicted survival of lung cancer patients after lung resections (SAS) <br />
 5. Advanced Machine Learning <br />

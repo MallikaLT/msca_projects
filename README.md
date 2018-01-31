@@ -3,7 +3,7 @@ Projects completed for MSCA classes
 
 This repo contains projects from the following classes:
 
-1. Time Series
+1. Time Series\n
       a. forecasted opioid deaths using Conecticut Medical Examiner data 
 2. Healthcare Anaytics
       a. predicted diabetes in patients using EHR data

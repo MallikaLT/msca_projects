@@ -7,6 +7,7 @@ This repo contains projects from the following classes:
       a. forecast opioid deaths using Conecticut Medical Examiner data (R) <br />
 2. Healthcare Anaytics <br />
       a. predicted diabetes in patients using EHR data (R) <br />
+      b. conducted survival analysis of patients diagnosed with 5 types of cancer (R) <br />
 3. Big Data & Text Analysis <br />
       a. performed sentiment analysis on Tweets (Spark & SPSS) <br />
 4. Data Mining <br />
